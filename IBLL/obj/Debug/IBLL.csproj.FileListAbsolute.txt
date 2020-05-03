@@ -2,3 +2,4 @@ D:\软件项目\Test\TestEF\IBLL\bin\Debug\IBLL.dll
 D:\软件项目\Test\TestEF\IBLL\bin\Debug\IBLL.pdb
 D:\软件项目\Test\TestEF\IBLL\obj\Debug\IBLL.dll
 D:\软件项目\Test\TestEF\IBLL\obj\Debug\IBLL.pdb
+D:\软件项目\Test\TestEF\IBLL\obj\Debug\IBLL.csprojResolveAssemblyReference.cache
