@@ -1,0 +1,15 @@
+D:\软件项目\Test\TestEF\DAL\bin\Debug\DAL.dll
+D:\软件项目\Test\TestEF\DAL\bin\Debug\DAL.pdb
+D:\软件项目\Test\TestEF\DAL\bin\Debug\EntityFramework.dll
+D:\软件项目\Test\TestEF\DAL\bin\Debug\EntityFramework.SqlServer.dll
+D:\软件项目\Test\TestEF\DAL\bin\Debug\IBLL.dll
+D:\软件项目\Test\TestEF\DAL\bin\Debug\_Core.dll
+D:\软件项目\Test\TestEF\DAL\bin\Debug\_Framework.dll
+D:\软件项目\Test\TestEF\DAL\bin\Debug\IBLL.pdb
+D:\软件项目\Test\TestEF\DAL\bin\Debug\_Core.pdb
+D:\软件项目\Test\TestEF\DAL\bin\Debug\_Framework.pdb
+D:\软件项目\Test\TestEF\DAL\bin\Debug\EntityFramework.xml
+D:\软件项目\Test\TestEF\DAL\bin\Debug\EntityFramework.SqlServer.xml
+D:\软件项目\Test\TestEF\DAL\obj\Debug\DAL.csprojResolveAssemblyReference.cache
+D:\软件项目\Test\TestEF\DAL\obj\Debug\DAL.dll
+D:\软件项目\Test\TestEF\DAL\obj\Debug\DAL.pdb

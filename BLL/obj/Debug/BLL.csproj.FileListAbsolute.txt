@@ -1,0 +1,15 @@
+D:\软件项目\Test\TestEF\BLL\bin\Debug\BLL.dll
+D:\软件项目\Test\TestEF\BLL\bin\Debug\BLL.pdb
+D:\软件项目\Test\TestEF\BLL\bin\Debug\DAL.dll
+D:\软件项目\Test\TestEF\BLL\bin\Debug\EntityFramework.dll
+D:\软件项目\Test\TestEF\BLL\bin\Debug\IBLL.dll
+D:\软件项目\Test\TestEF\BLL\bin\Debug\_Framework.dll
+D:\软件项目\Test\TestEF\BLL\bin\Debug\_Core.dll
+D:\软件项目\Test\TestEF\BLL\bin\Debug\DAL.pdb
+D:\软件项目\Test\TestEF\BLL\bin\Debug\IBLL.pdb
+D:\软件项目\Test\TestEF\BLL\bin\Debug\_Framework.pdb
+D:\软件项目\Test\TestEF\BLL\bin\Debug\EntityFramework.xml
+D:\软件项目\Test\TestEF\BLL\bin\Debug\_Core.pdb
+D:\软件项目\Test\TestEF\BLL\obj\Debug\BLL.csprojResolveAssemblyReference.cache
+D:\软件项目\Test\TestEF\BLL\obj\Debug\BLL.dll
+D:\软件项目\Test\TestEF\BLL\obj\Debug\BLL.pdb

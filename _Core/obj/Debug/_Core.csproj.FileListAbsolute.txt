@@ -1,0 +1,5 @@
+D:\软件项目\Test\TestEF\_Core\bin\Debug\_Core.dll
+D:\软件项目\Test\TestEF\_Core\bin\Debug\_Core.pdb
+D:\软件项目\Test\TestEF\_Core\obj\Debug\_Core.csprojResolveAssemblyReference.cache
+D:\软件项目\Test\TestEF\_Core\obj\Debug\_Core.dll
+D:\软件项目\Test\TestEF\_Core\obj\Debug\_Core.pdb

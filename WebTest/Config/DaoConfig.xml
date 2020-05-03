@@ -1,0 +1,4 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<DaoConfig xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Application>Data Source=.;Initial Catalog=EF_Test;Persist Security Info=True;User ID=sa;Password=112233</Application>
+</DaoConfig>
